@@ -3,7 +3,7 @@ import json
 import random
 import re
 
-formURL = "https://docs.google.com/forms/d/e/1FAIpQLSfO7oO8H0WKLuTS3UFDOuJQv1noSMi9M2PP5f7fa-1TLrnMoQ/viewform?usp=dialog"
+formURL = "https://forms.gle/3AzqAmfZoA5GR6eZ7"
 
 with open("responder.json", "r") as f:
     responder_details = json.load(f)
